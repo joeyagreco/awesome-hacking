@@ -209,6 +209,7 @@ Python
 - `Pyprotect <https://github.com/ga0/pyprotect>`_ - A lightweight python code protector, makes your python project harder to reverse engineer.
 - `Python-idb <https://github.com/williballenthin/python-idb>`_ - Pure Python parser and analyzer for IDA Pro database files (.idb).
 - `Python-ptrace <https://github.com/haypo/python-ptrace>`_ - Python binding of ptrace library.
+- `Ranger Reloaded <https://github.com/joeyagreco/ranger-reloaded>`_ - A Python script that can be used to scan alive hosts on your network and check for vulnerable open ports.`
 - `RDPY <https://github.com/citronneur/rdpy>`_ - RDPY is a pure Python implementation of the Microsoft RDP (Remote Desktop Protocol) protocol (client and server side).
 - `Scapy <http://www.secdev.org/projects/scapy/>`_ - A python-based interactive packet manipulation program & library.
 
